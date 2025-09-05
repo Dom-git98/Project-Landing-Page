@@ -34,3 +34,42 @@ a {
     text-decoration: none;
     font-size: 18px;
 }
+
+/* Hero Section */
+
+.container-hero {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 47px 112px;
+    gap: 20px;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.hero-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero-image img {
+    display: block;
+    width: 600px;
+    height: 350px;
+    border-radius: 12px;
+}
+
+.hero-button {
+    display: block;
+    padding: 7px 12px;
+    font-size: 13px;
+    background-color: #3882f6;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    margin-top: 13px;
+}
