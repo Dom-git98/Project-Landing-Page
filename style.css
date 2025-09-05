@@ -154,3 +154,39 @@ a {
     padding-right: 50px;
 }
 
+/* Call To Action Section */
+
+.call-to-action {
+    margin: 70px 112px;
+}
+
+.container-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 24px 65px;
+    border-radius: 8px;
+}
+
+.action-title {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+}
+.action-info {
+    color: white;
+    margin-top: 3px;
+    font-size: 18px;
+}
+
+.action-button {
+    background-color: #3882f6;
+    color: white;
+    border: solid white 2px;
+    padding: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 6px;
+}
