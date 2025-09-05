@@ -190,3 +190,18 @@ a {
     font-weight: bold;
     border-radius: 6px;
 }
+
+/* Footer Section */
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    padding: 30px 112px;
+}
+
+.footer-text {
+    font-size: 20px;
+    color: white;
+}
